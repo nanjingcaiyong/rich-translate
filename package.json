@@ -1,0 +1,18 @@
+{
+  "name": "rich-translate",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["baidu", "youdao", "translate"],
+  "author": {
+    "name": "yong.cai",
+    "email": "yong.cai@kapeixi.com"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "license": "ISC"
+}
